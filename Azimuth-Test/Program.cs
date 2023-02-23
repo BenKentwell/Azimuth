@@ -1,3 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-Console.WriteLine("Hello, World. I have become sentient. I am suffering from ligma");
+﻿namespace  Azimuth_Test
+{
+	public static class Program
+	{
+		public static void Main()
+		{
+			
+		}
+		
+		
+	}
+	
+	
+}
