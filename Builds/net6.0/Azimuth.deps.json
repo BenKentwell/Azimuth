@@ -6,13 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Azimuth-Test/1.0.0": {
+      "Azimuth/1.0.0": {
         "dependencies": {
-          "Azimuth": "1.0.0",
           "Raylib-cs": "4.2.0.1"
         },
         "runtime": {
-          "Azimuth-Test.dll": {}
+          "Azimuth.dll": {}
         }
       },
       "Raylib-cs/4.2.0.1": {
@@ -48,19 +47,11 @@
           }
         }
       },
-      "System.Numerics.Vectors/4.5.0": {},
-      "Azimuth/1.0.0": {
-        "dependencies": {
-          "Raylib-cs": "4.2.0.1"
-        },
-        "runtime": {
-          "Azimuth.dll": {}
-        }
-      }
+      "System.Numerics.Vectors/4.5.0": {}
     }
   },
   "libraries": {
-    "Azimuth-Test/1.0.0": {
+    "Azimuth/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -78,11 +69,6 @@
       "sha512": "sha512-QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
       "path": "system.numerics.vectors/4.5.0",
       "hashPath": "system.numerics.vectors.4.5.0.nupkg.sha512"
-    },
-    "Azimuth/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     }
   }
 }
