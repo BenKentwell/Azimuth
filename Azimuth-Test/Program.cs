@@ -8,8 +8,8 @@ namespace  Azimuth_Test
 	{
 		public static void Main()
 		{
-			Application.Run(800, 600, "Azimuth Test",Color.WHITE,new AzimuthTestGame() );
-			Console.Read();
+			Application.Run<AzimuthTestGame>();
+			Console.ReadLine();
 		}
 		
 		
